@@ -45,6 +45,7 @@ Table of Content
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden
 }
 
 body {
@@ -53,7 +54,6 @@ body {
   background-color: #F9F9FF;
   color: #515c6a;
   font-weight: 400;
-  overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
